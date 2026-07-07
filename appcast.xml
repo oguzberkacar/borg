@@ -3,12 +3,17 @@
     <channel>
         <title>borg</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Tue, 07 Jul 2026 23:21:17 +0300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Tue, 07 Jul 2026 23:26:14 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oguzberkacar/borg/releases/download/v0.1.4/borg-0.1.4.zip" length="1695772" type="application/octet-stream" sparkle:edSignature="AwcAL47PotYou5CTcASTGNDGfEgxN4IVvpGXjy0NZZTlwCXE1XjFM8LAmLGh0CE0udZcJjH1WhwtwtHNKOMeBg=="/>
+            <description><![CDATA[<ul>
+<li>Settings now shows the version and a <b>What's New</b> link.</li>
+<li>Update notifications now include release notes — you can see what changed.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/oguzberkacar/borg/releases/download/v0.1.5/borg-0.1.5.zip" length="1700455" type="application/octet-stream" sparkle:edSignature="6qAQOkkJEiSISS+M1pVIsaMXR3KxfH8ZHG6WcThOnOnUgZWui5Yiq16ukplUt44pE0N3rGZ/tV65t9c3kehDDA=="/>
         </item>
     </channel>
 </rss>
