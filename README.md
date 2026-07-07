@@ -6,11 +6,11 @@ Hide the icons you don't need. Reveal them on demand.</p>
 
 ## Download
 
-**[⬇︎ Download borg (latest)](https://github.com/oguzberkacar/borg/releases/latest)**
+**[⬇︎ Download borg 0.1.1 (.dmg)](https://github.com/oguzberkacar/borg/releases/latest/download/borg-0.1.1.dmg)**
 
 Notarized by Apple — no "unidentified developer" warning. Requires macOS 13+.
 
-1. Download the `.zip`, unzip, drag **borg** to `/Applications`.
+1. Download the `.dmg`, open it, drag **borg** into **Applications**.
 2. Launch it — a `‹` icon appears in your menu bar with a quick guide.
 3. Hold **⌘** and drag your menu-bar icons across the `◇` / `◆` separators to
    choose what hides. Click `‹` (or press ⌃⌥B) to toggle.
